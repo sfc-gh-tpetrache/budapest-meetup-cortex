@@ -1,93 +1,93 @@
-# Aqua Serenity Spas: Competitive Intelligence POC
+# Pon.Bike: Competitive Intelligence POC
 ## Presentation Script (10 minutes)
 
 ---
 
 ## Opening (1 min)
 
-**[Address Andras's pain point]**
+**[Address Janus's pain point]**
 
-> "Andras, you told me: *'I want to know exactly why customers prefer our competitors and what we need to fix. Stop guessing - show me the data.'*"
+> "Janus, you told me: *'We own 9 brands but I can't tell you in 10 seconds which ones are winning and which ones need help.'*"
 
 Today I'll show you how we can answer that question in seconds, not weeks.
 
-**What I built:** A competitive intelligence system using Snowflake Intelligence that lets anyone on our team ask questions in plain English and get instant, auditable answers.
+**What I built:** A competitive intelligence system using Snowflake Intelligence that lets anyone on our team ask questions in plain English and get instant, auditable answers about our brand portfolio performance in the Dutch market.
 
 ---
 
 ## Demo 1: Competitive Benchmarking (2 min)
 
-**[Andras's question]**
+**[Janus's question]**
 
-**Ask:** "How do our ratings compare to the top 5 competitors?"
+**Ask:** "How do our brand ratings compare to Trek and Specialized?"
 
 **Show:**
-- Our average: 4.0 vs Szechenyi's 4.5
-- The 0.4-0.5 star gap we need to close
-- SQL generated for Peter's audit trail
+- Pon brands average vs Trek (4.3) and Specialized (4.3)
+- The rating gap we need to close per brand
+- SQL generated for Pieter's audit trail
 
 **Talking point:**
-> "We're not guessing anymore. This pulls from 250 reviews across 35 Budapest spas. Every answer shows the SQL so Peter can verify the numbers."
+> "We're not guessing anymore. This pulls from 250 product reviews across 25 bicycle brands. Every answer shows the SQL so Pieter can verify the numbers."
 
 ---
 
-## Demo 2: Location Performance (2 min)
+## Demo 2: Brand Performance (2 min)
 
-**[Andras's question]**
+**[Janus's question]**
 
-**Ask:** "Which of our locations is underperforming and why?"
+**Ask:** "Which of our brands is underperforming in the Dutch market?"
 
 **Show:**
-- Rating breakdown by location
-- Specific complaint themes per location
-- Comparison to competitors in same district/price tier
+- Rating breakdown by Pon brand
+- Market share trends for each brand
+- Comparison to competitors in same price tier and category
 
 **Talking point:**
-> "Instead of waiting for monthly reports, you can drill into any location instantly. The system searches actual review text to find the 'why' behind the numbers."
+> "Instead of waiting for quarterly reports, you can drill into any brand instantly. The system shows both the numbers and the customer feedback behind them."
 
 ---
 
-## Demo 3: Sentiment Analysis (2 min)
+## Demo 3: Product Review Analysis (2 min)
 
-**[Peter's operational question]**
+**[Pieter's product question]**
 
-**Ask:** "What are the top 3 complaints at each of our locations?"
+**Ask:** "What are the top complaints about our e-bikes?"
 
 **Show:**
-- Specific complaint categories (wait times, cleanliness, staff, facilities)
+- Specific complaint categories (battery range, motor noise, component quality, dealer service)
 - Actual review quotes as evidence
-- Actionable recommendations
+- Comparison to what Trek and Specialized e-bike reviews praise
 
 **Talking point:**
-> "Peter, this is what you asked for - not just 'we have problems' but WHICH location has WHICH problem. You can use this to prioritize training and improvements."
+> "Pieter, this is what you asked for - not just 'ratings are low' but WHICH brand has WHICH problem. Is it the motor, the frame, the components, or the dealer experience? You can use this to prioritize R&D investments."
 
 ---
 
-## Demo 4: Market Opportunity (2 min)
+## Demo 4: Category Gap Analysis (2 min)
 
-**[Eva's growth question]**
+**[Marieke's growth question]**
 
-**Ask:** "Which districts have no premium spas? That's our opportunity."
+**Ask:** "Which bike category has no strong Pon brand?"
 
 **Show:**
-- District heatmap of spa concentration
-- Gaps in premium/luxury tier by area
+- Category-level market share for Pon brands vs competitors
+- Growing categories (gravel, speed pedelec) where Pon is underrepresented
 - Competitor vulnerability analysis
 
 **Talking point:**
-> "Eva, you wanted to find the gap in the market. This shows where customers are underserved - exactly where we should consider opening location #6."
+> "Marieke, you said: *'Every brand should own a category. If there's a category where we don't have a strong contender, that's either an acquisition target or a brand repositioning opportunity.'* This shows exactly where those gaps are."
 
 ---
 
 ## Closing: Auditability (1 min)
 
-**[Address Peter's trust requirement]**
+**[Address Pieter's trust requirement]**
 
-> "Peter, you said: *'If we make decisions based on wrong numbers, we waste money and frustrate customers. Any AI needs to be explainable and auditable.'*"
+> "Pieter, you said: *'Data accuracy is everything. If we make product decisions based on wrong sentiment analysis, we waste R&D budget. Any AI needs to be explainable and auditable.'*"
 
 **Show:**
 - Click to reveal SQL behind any answer
-- Source data is traceable to specific reviews
+- Source data is traceable to specific reviews and brand metrics
 - No black box - full transparency
 
 **Key point:**
@@ -99,24 +99,24 @@ Today I'll show you how we can answer that question in seconds, not weeks.
 
 | Stakeholder | Question | Answer Time |
 |-------------|----------|-------------|
-| Andras (CEO) | "How do we compare to competitors?" | < 10 seconds |
-| Peter (Ops) | "What complaints need fixing?" | < 10 seconds |
-| Eva (CMO) | "Where should we expand?" | < 10 seconds |
+| Janus (CEO) | "How do our brands compare to competitors?" | < 10 seconds |
+| Pieter (Product) | "What product issues need fixing?" | < 10 seconds |
+| Marieke (CMO) | "Where are the category gaps?" | < 10 seconds |
 
 **Success criteria met:**
 - Speed: Instant answers
 - Accuracy: SQL-backed, verifiable
 - Simplicity: Plain English, no SQL needed
 - Trust: Full audit trail
-- Actionable: Specific recommendations
+- Actionable: Specific recommendations per brand
 
 ---
 
 ## Next Steps
 
-1. **Immediate:** Share with analyst team for testing
+1. **Immediate:** Share with market intelligence team for testing
 2. **Day 3:** Gather feedback on additional questions
-3. **Day 5:** Decision on production implementation with real TripAdvisor data feeds
+3. **Day 5:** Decision on production implementation with real Trustpilot/Google review feeds
 
 **Questions?**
 
@@ -124,20 +124,22 @@ Today I'll show you how we can answer that question in seconds, not weeks.
 
 ## Appendix: Sample Questions to Demo
 
-**CEO (Andras):**
-- "How do our ratings compare to the top 5 competitors?"
-- "Which of our locations is underperforming and why?"
-- "What would it take to reach a 4.5 average rating?"
+**CEO (Janus):**
+- "How do our brand ratings compare to Trek and Specialized?"
+- "Which of our brands is underperforming in the Dutch market?"
+- "What would it take to get Gazelle to a 4.5 average rating?"
 
-**CMO (Eva):**
-- "Which districts have no premium spas?"
-- "What do reviews mention that we're not doing?"
+**CMO (Marieke):**
+- "Which bike category has no strong Pon brand?"
+- "What do competitor reviews praise that our reviews don't mention?"
+- "Which competitor is most vulnerable to us taking market share?"
 
-**Operations (Peter):**
-- "What are the top 3 complaints at each of our locations?"
-- "Which treatments should we add based on competitor success?"
-- "How are we doing compared to Szechenyi Baths?"
+**Product (Pieter):**
+- "What are the top complaints about our e-bikes?"
+- "Which product features should we prioritize based on competitor reviews?"
+- "How do Cannondale road bike reviews compare to Trek and Specialized?"
 
 **Follow-up:**
-- "Where should we open our 4th spa?"
-- "What do 5-star reviews mention?"
+- "How is Gazelle performing compared to Batavus?"
+- "What should we improve on Urban Arrow cargo bikes?"
+- "Where should we invest - e-bikes or cargo bikes?"
