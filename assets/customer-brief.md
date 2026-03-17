@@ -1,30 +1,24 @@
-# Company Background: Pon.Bike
+# Company Background: Aqua Serenity Spas
 
 ## About Your Company
 
-**Pon.Bike** is the bicycle division of Pon Holdings, a Dutch family-owned multinational headquartered in Amsterdam. With 9 major bicycle brands and over EUR 2.1 billion in annual revenue, Pon.Bike is one of the five largest bicycle manufacturers in the world and the dominant player in the Netherlands market. The company's portfolio spans city bikes, e-bikes, cargo bikes, performance road bikes, and mountain bikes.
+**Aqua Serenity Spas** is a growing spa chain in Budapest, Hungary, operating 3 wellness and spa locations across different districts. Founded in 2018, the company aims to compete with both historic thermal baths and modern hotel spas by offering a blend of traditional Hungarian wellness traditions and contemporary treatments.
 
 ### Key Business Metrics
-- **Brands:** 9 major bicycle brands in portfolio
-- **Annual Revenue:** EUR 2.1B (2024, bicycle division)
-- **Employees:** ~5,000 (Pon.Bike division)
-- **NL Market Position:** Largest bicycle company in the Netherlands
-- **Average Product Rating:** 4.0/5.0 across brands (room for improvement)
-- **NL Dealer Network:** 800+ authorized dealers
+- **Locations:** 3 spas across Budapest
+- **Annual Revenue:** 850M HUF (~EUR 2.2M)
+- **Annual Visitors:** 180,000 across all locations
+- **Employees:** 65 (therapists, reception, management)
+- **Average Rating:** 4.0/5.0 on TripAdvisor (room for improvement)
+- **Market Share:** ~3% of Budapest spa market
 
-### Our 9 Brands
+### Our 3 Locations
 
-| Brand | Category | Price Tier | Positioning | NL Dealers |
-|-------|----------|------------|-------------|------------|
-| Gazelle | City/E-bike | Mid-Range | Dutch heritage, #1 Dutch bike brand | 350 |
-| Cannondale | Road/MTB | Premium | Performance cycling | 120 |
-| Santa Cruz | Mountain Bike | Luxury | High-end MTB | 25 |
-| Cervelo | Road/Triathlon | Luxury | Professional racing | 30 |
-| Kalkhoff | E-bike/City | Mid-Range | German engineering, commuter focus | 180 |
-| Focus | Road/MTB | Premium | Competitive cycling | 85 |
-| Urban Arrow | Cargo Bike | Premium | Urban family mobility | 60 |
-| Veloretti | Urban/Lifestyle | Mid-Range | Direct-to-consumer, trendy | 15 |
-| Schwinn | Classic/Casual | Budget | Heritage, entry-level | 40 |
+| Location | District | Type | Price Tier | Opened | Capacity |
+|----------|----------|------|------------|--------|----------|
+| Castle District | I | Premium Wellness | Premium | 2019 | 80/day |
+| City Park | XIV | Family Wellness | Mid-Range | 2018 | 150/day |
+| Buda Hills | XII | Boutique Spa | Luxury | 2021 | 40/day |
 
 ---
 
@@ -32,40 +26,39 @@
 
 ### Market Landscape
 
-The Netherlands has the highest cycling rate in the world with 23 million bicycles for 17 million people. E-bikes now account for over 50% of new bike sales by revenue. We compete against:
+Budapest is one of the world's top spa destinations with 120+ thermal springs. We compete against:
 
-| Competitor Type | Key Players | Avg Rating | Our Challenge |
-|-----------------|-------------|------------|---------------|
-| Global Performance Brands | Trek, Specialized | 4.3/5.0 | Innovation reputation, brand loyalty |
-| Full-Range Manufacturers | Giant, Cube | 4.2/5.0 | Price-to-performance, dealer density |
-| Dutch Heritage Brands | Batavus, Sparta, Cortina | 4.1/5.0 | Local loyalty, commuter segment |
-| Cargo/E-bike Specialists | Riese & Muller, Babboe | 4.0/5.0 | Niche focus, growing segment |
-| E-MTB Specialists | Haibike | 4.1/5.0 | Electric mountain bike segment |
+| Competitor Type | Count | Avg Rating | Our Challenge |
+|-----------------|-------|------------|---------------|
+| Historic Thermal Baths | 12 | 4.4/5.0 | Brand recognition, authenticity |
+| Hotel Spas | 25+ | 4.3/5.0 | Captive audience, premium positioning |
+| Modern Wellness Spas | 30+ | 4.0/5.0 | Similar offerings, price competition |
+| Boutique Day Spas | 20+ | 3.9/5.0 | Niche treatments, local loyalty |
 
 ### Top Competitors We Track
 
-1. **Trek** - 4.4 rating, dominant dealer network, full range from city to pro
-2. **Specialized** - 4.3 rating, innovation leader (Turbo e-bikes), strong brand loyalty
-3. **Giant** - 4.2 rating, best price-to-performance, huge global scale
-4. **Batavus** - 4.1 rating, Dutch heritage brand (Accell Group), strong commuter segment
-5. **Cube** - 4.2 rating, German value brand, fast-growing in NL
+1. **Szechenyi Baths** - 4.5 rating, 8,000 reviews, iconic outdoor pools
+2. **Gellert Thermal Bath** - 4.3 rating, 6,500 reviews, Art Nouveau architecture
+3. **Rudas Baths** - 4.4 rating, 3,200 reviews, rooftop pool, Ottoman history
+4. **Corinthia Hotel Spa** - 4.6 rating, 1,800 reviews, luxury positioning
+5. **Mandala Day Spa** - 4.2 rating, 950 reviews, modern treatments
 
 ---
 
 ## Pain Points Identified by Leadership
 
 ### Strategic Challenges
-1. **E-bike market saturation:** Asian manufacturers entering with aggressive pricing
-2. **Brand fragmentation:** 9 brands but consumers confused about positioning and overlap
-3. **Review visibility:** Trek and Specialized dominate review platforms and social media
-4. **Category gaps:** Some high-growth categories (gravel, speed pedelec) lack a strong Pon brand
-5. **Dutch market defense:** Accell Group brands (Batavus, Sparta) competing hard for commuter segment
+1. **Rating gap:** Our 4.0 average trails thermal baths (4.4) by 0.4 stars
+2. **Review volume:** We have ~500 total reviews vs Szechenyi's 8,000+
+3. **No differentiation:** Customers don't understand what makes us unique
+4. **Inconsistent experience:** Quality varies significantly between locations
+5. **Blind spots:** We don't know why customers choose competitors over us
 
 ### Operational Challenges
-1. **Manual competitive analysis:** Team spends 15+ hours/month tracking competitor reviews across platforms
-2. **Delayed insights:** Product feedback reaches product teams months after launch
-3. **No cross-brand analysis:** Each brand team tracks their own metrics differently
-4. **Blind spots:** We don't know which product features drive competitor preference
+1. **Manual competitive analysis:** Team spends 10+ hours/month on spreadsheets
+2. **Delayed insights:** Review monitoring is reactive, not proactive
+3. **No sentiment analysis:** Can't identify specific improvement areas
+4. **Data silos:** Each location tracks metrics differently
 
 ---
 
@@ -73,58 +66,58 @@ The Netherlands has the highest cycling rate in the world with 23 million bicycl
 
 ### Must Have (P0)
 - [ ] Natural language interface for executives
-- [ ] Brand-level and category-level competitive benchmarking
-- [ ] Sentiment analysis of negative reviews to identify product improvements
+- [ ] District-level market opportunity analysis
+- [ ] Sentiment analysis of negative reviews to identify fixes
 - [ ] Up-to-date rating benchmarks vs top competitors
 
 ### Should Have (P1)
-- [ ] Category gap analysis (where Pon has no strong brand)
-- [ ] Price-tier positioning recommendations
-- [ ] Feature priority analysis based on competitor review themes
+- [ ] Treatment gap analysis (what competitors offer that we don't)
+- [ ] Price-tier optimization recommendations
+- [ ] Staff training priorities based on complaints
 
 ---
 
 ## Key Stakeholders
 
 ### CEO and Executive Sponsor
-**Janus Smalbraak, CEO**
-- Led Pon.Bike through major acquisitions (Dorel Sports, Urban Arrow)
-- Focused on portfolio strategy and brand synergies
-- Concerned about e-bike commoditization and margin pressure
-- *Your primary champion - wants data to drive brand investment decisions*
+**Andras Kovacs, CEO and Founder**
+- Serial entrepreneur, opened first spa in 2018
+- Obsessed with customer experience and NPS scores
+- Frustrated by losing customers to "outdated" thermal baths
+- *Your primary champion - wants data to drive expansion decisions*
 
 Key quote:
-> "We own 9 brands but I can't tell you in 10 seconds which ones are winning and which ones need help. I need a dashboard that speaks plain language."
+> "I want to know exactly why customers prefer our competitors and what we need to fix. Stop guessing - show me the insights."
 
 ### CMO and Growth Lead
-**Marieke de Vries, Chief Marketing Officer**
-- Former Unilever brand director, joined Pon.Bike 2022
-- Focused on brand differentiation and category leadership
-- Wants to identify underserved segments for brand positioning
-- *Cares about competitive positioning and messaging gaps*
+**Eva Molnar, Chief Marketing Officer**
+- Former hotel marketing director, joined 2020
+- Focused on building brand awareness and review volume
+- Wants to identify "underserved" districts for expansion
+- *Cares about positioning and messaging opportunities*
 
 Key quote:
-> "Every brand should own a category. If there's a category where we don't have a strong contender, that's either an acquisition target or a brand repositioning opportunity."
+> "We need to find the gap in the market. Where are customers unhappy with their options? That's where we open next."
 
-### Head of Product
-**Pieter van den Berg, VP Product Development**
-- 15 years in bicycle engineering, previously at Giant
-- Manages product roadmaps across all 9 brands
-- Wants specific feature and quality feedback from reviews
-- *Will scrutinize product insights and data accuracy*
+### Operations Director
+**Peter Varga, Director of Operations**
+- Manages all 3 locations and 65 staff
+- Concerned about consistency and training
+- Wants specific feedback to improve each location
+- *Will scrutinize operational insights and data accuracy*
 
 Key quote:
-> "Don't just tell me ratings are low - tell me WHICH brand has WHICH problem. Is it the motor, the frame, the components, or the dealer experience? I need specifics."
+> "Don't just tell me we have problems - tell me WHICH location has WHICH problem so I can fix it."
 
 **On data and AI:**
-> "Data accuracy is everything. If we make product decisions based on wrong sentiment analysis, we waste R&D budget. Any AI needs to be explainable and auditable."
+> "Data accuracy is everything. If we make decisions based on wrong numbers, we waste money and frustrate customers. Any AI or automation needs to be explainable and auditable."
 
 ### Your Team
-**4 analysts** in market intelligence
-- Power BI and Excel experts, moderate SQL skills
-- Currently spend 40% of time on manual competitor tracking across review platforms
-- Want self-service analytics without waiting for IT
-- Skeptical that AI can understand bicycle product nuance
+**3 analysts** in business intelligence
+- Excel and Google Sheets experts, basic SQL
+- Currently spend 40% of time on manual competitor tracking
+- Want self-service without waiting for IT
+- Skeptical that AI can understand spa industry nuance
 
 ---
 
@@ -145,36 +138,36 @@ You've evaluated options and see potential in:
 - **Cortex Analyst** - Natural language queries for competitive benchmarking
 - **Snowflake Intelligence** - Chat interface for executives
 - **Semantic Views** - Business-friendly layer hiding SQL complexity
-- **Full Auditability** - Show SQL behind every answer (Pieter's requirement)
-- **Scalability** - Can add more brands, real-time review feeds, and international markets later
+- **Full Auditability** - Show SQL behind every answer (Peter's requirement)
+- **Scalability** - Can add more competitors and real-time review feeds later
 
-Your job is to prove this can transform how Pon.Bike tracks competition across its brand portfolio.
+Your job is to prove this can transform how Aqua Serenity tracks competition.
 
 ---
 
-## Success Criteria (from Janus)
+## Success Criteria (from Andras)
 
-1. **Speed:** Answer "How does Gazelle compare to Batavus?" in under 10 seconds
-2. **Accuracy:** Numbers must be verifiable (Pieter will validate)
+1. **Speed:** Answer "How do we compare to Gellert?" in under 10 seconds
+2. **Accuracy:** Numbers must be verifiable (Peter will validate)
 3. **Simplicity:** Non-technical users can ask questions without SQL
-4. **Trust:** Show the SQL behind answers (Pieter needs auditability)
+4. **Trust:** Show the SQL behind answers (Peter needs auditability)
 5. **Actionable:** Recommendations must be specific and implementable
 
 ---
 
 ## Sample Questions the POC Must Answer
 
-From Janus (CEO):
-- "How do our brand ratings compare to Trek and Specialized?"
-- "Which of our brands is underperforming in the Dutch market?"
-- "What would it take to get Gazelle to a 4.5 average rating?"
+From Andras (CEO):
+- "How do our ratings compare to the top 5 competitors?"
+- "Which of our locations is underperforming and why?"
+- "What would it take to reach a 4.5 average rating?"
 
-From Marieke (CMO):
-- "Which bike category has no strong Pon brand?"
-- "What do competitor reviews praise that our reviews don't mention?"
+From Eva (CMO):
+- "What do reviews mention that we're not doing?"
 - "Which competitor is most vulnerable to us taking market share?"
 
-From Pieter (Product):
-- "What are the top 3 complaints about our e-bikes?"
-- "Which product features should we prioritize based on competitor reviews?"
-- "How do Cannondale road bike reviews compare to Trek and Specialized?"
+From Peter (Operations):
+- "What are the top 3 complaints at each of our locations?"
+- "Which treatments should we add based on competitor success?"
+
+
